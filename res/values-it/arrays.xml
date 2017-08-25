@@ -28,31 +28,31 @@
     <string-array name="weather_type">
         <item>Soleggiato</item>
         <item>Nuvoloso</item>
-        <item>Nuvoloso</item>
-        <item>Nebbioso</item>
-        <item>Temporale Forte</item>
-        <item>Rovescio</item>
-        <item>Temporale</item>
+        <item>Prevalentemente nuvoloso</item>
+        <item>Nebbia</item>
+        <item>Pioggia forte</item>
+        <item>Acquazzone</item>
+        <item>Pioggia</item>
         <item>Temporale</item>
         <item>Pioggia</item>
-        <item>Acquazzone</item>
-        <item>Pioggia Moderata</item>
-        <item>Pioggia Leggera</item>
+        <item>Pioggia forte</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
         <item>Nevischio</item>
-        <item>Bufera di Neve</item>
+        <item>Bufera di neve</item>
         <item>Neve</item>
-        <item>Forte Nevicata</item>
-        <item>Nevicata Moderata</item>
-        <item>Nevicata Leggera</item>
-        <item>Forte Tempesta di Sabbia</item>
-        <item>Tempesta di Sabbia</item>
+        <item>Nevicata forte</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Tempesta di sabbia forte</item>
+        <item>Tempesta di sabbia moderata</item>
         <item>Sabbia</item>
         <item>Ventoso</item>
-        <item>Grandinata</item>
-        <item>Pulviscolo</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
         <item>Foschia</item>
-        <item>Pioggia Congelantesi</item>
-        <item>Nessun Meteo</item>
+        <item>Pioggia congelantesi</item>
+        <item>Nessun meteo</item>
     </string-array>
     <string-array name="wind_direction">
         <item>N</item>
@@ -65,15 +65,15 @@
         <item>NO</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
-        <item>Icona Meteo</item>
+        <item>Icona meteo</item>
         <item>Temperatura</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Molto deboli</item>
-        <item>Deboli</item>
-        <item>Raggio Medio</item>
-        <item>Forti</item>
-        <item>Molto Forti</item>
+        <item>Basso</item>
+        <item>Medio</item>
+        <item>Alto</item>
+        <item>Molto alto</item>
+        <item>Estremamente alto</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minuti</item>
@@ -89,10 +89,10 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Buona</item>
-        <item>Moderata</item>
-        <item>Malsano per i gruppi sensibili</item>
-        <item>Malsano</item>
-        <item>Molto malsano</item>
-        <item>Pericoloso</item>
+        <item>Accetabile</item>
+        <item>Malsana per i gruppi sensibili</item>
+        <item>Malsana</item>
+        <item>Molto malsana</item>
+        <item>Pericolosa</item>
     </string-array>
 </resources>
